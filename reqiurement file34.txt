@@ -1,0 +1,8 @@
+PyPDF2 Version Information
+----------------------------
+Name: PyPDF2
+Version: 1.25.0
+Summary: PDF toolkit
+Home-page: http://mstamy2.github.com/PyPDF2
+Author: Mathieu Fenniak
+Author-email: biziqe@mathieu.fenniak.net
